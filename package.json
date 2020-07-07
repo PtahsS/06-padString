@@ -1,0 +1,15 @@
+{
+  "name": "06_padstring",
+  "version": "1.0.0",
+  "description": "PadStart, padEnd",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ptahsS\u001b[D\u001b[D\u001b[D\u001b[D\u001b[P",
+  "license": "ISC"
+}
